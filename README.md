@@ -20,3 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdullah104&icon=9&color=6)](https://visitcount.itsvg.in)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
