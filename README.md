@@ -23,4 +23,80 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 562 Contributions in the Year 2022
+ > 
+> 📦 58.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
+🌆 Daytime    147 commits    ███████░░░░░░░░░░░░░░░░░░   28.32% 
+🌃 Evening    137 commits    ██████░░░░░░░░░░░░░░░░░░░   26.4% 
+🌙 Night      160 commits    ███████░░░░░░░░░░░░░░░░░░   30.83%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
+Tuesday      107 commits    █████░░░░░░░░░░░░░░░░░░░░   20.62% 
+Wednesday    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
+Thursday     90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
+Friday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
+Saturday     32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Sunday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Riyadh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     18 repos            ██████████████░░░░░░░░░░░   58.06% 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Abdullah104/Abdullah104/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/05/2022 11:26:42 UTC
 <!--END_SECTION:waka-->
