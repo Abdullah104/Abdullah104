@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I'm currently working as a Web & Mobile App developer and software engineer for a tech start-up and as a freelancer.<br />
+🔭 I'm currently working as a software engineer for a technical start-up.<br />
 🙋🏻‍♂️ I'm looking to collaborate on open-source projects targeting a big audience.<br />
 🌱 I'm currently learning software engineering, web & mobile app development, and artificial intelligence.<br />
 💬 Ask me about anything that comes to your mind. 😊<br />
