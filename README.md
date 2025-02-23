@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 # 💫About Me :
 🔭 I'm currently working as a software engineer for a technical start-up.<br />
 🙋🏻‍♂️ I'm looking to collaborate on open-source projects targeting a big audience.<br />
